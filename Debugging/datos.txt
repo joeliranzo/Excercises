@@ -1,0 +1,4 @@
+﻿Nombre: Juan; Edad: 25; Ciudad: Madrid
+Nombre: María- Edad: 30, Ciudad: Barcelona
+Pedro, 35, Valencia
+Ana | 28 | Sevilla
